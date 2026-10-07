@@ -40,7 +40,7 @@ After compilation a number of different executables are created:
 - `mul.x` used to run the mul protocol.
 - `rand.x` used to run the rand protocol.
 - `pbcts.x` used to run the PBCTS protocol.
-- `benchmark_apocm.x` benchmark for the APOCM protocol in the appendix of our paper.
+- `benchmark_apocm.x` benchmark for the APOCM protocol.
 
 ## Generating the figures in our paper
 
